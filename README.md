@@ -18,5 +18,9 @@ We're excited to have you on board and can't wait to see the value you'll bring 
 
 Once again, welcome and let's make the most out of this group together!"
 
+---
+
+"Hello and a warm welcome to our group! We're thrilled to have you join us! Our group is a community of [insert group purpose/topic] enthusiasts and professionals, here to share, learn and grow together. We believe that by sharing our experiences and ideas, we can achieve great things. Please take a moment to introduce yourself, tell us a bit about your background and what you're hoping to get out of the group. We can't wait to hear from you and be a part of your professional journey. Don't hesitate to reach out to any of us if you have any questions or need help getting started. Let's make great things happen together!"
+
 
 [Welcome script for welcome group](https://blog.vantagecircle.com/awesome-welcome-messages-for-new-employees/)
