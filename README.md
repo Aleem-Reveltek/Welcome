@@ -24,3 +24,12 @@ Once again, welcome and let's make the most out of this group together!"
 
 
 [Welcome script for welcome group](https://blog.vantagecircle.com/awesome-welcome-messages-for-new-employees/)
+
+
+---
+
+Welcome to our community! We are excited to have you join us and become a part of our community of like-minded individuals. We encourage you to take a moment to introduce yourself and share a bit about your interests and background.
+
+To get started, go to https://start.ignitecuriosity.org/ to learn more about our community and how you can participate.We are looking forward to seeing how you will contribute to our discussions and activities.
+
+If you have any questions or need help getting settled in, please don't hesitate to reach out to one of our group's administrators or members for assistance. Once again, welcome, and let's start our journey and make an impact here together!
