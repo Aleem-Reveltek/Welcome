@@ -17,3 +17,6 @@ In this group, we encourage open communication, sharing of knowledge, and suppor
 We're excited to have you on board and can't wait to see the value you'll bring to our community. If you have any questions or need any help getting started, please don't hesitate to reach out to one of our group's admins or members. They'll be more than happy to assist you.
 
 Once again, welcome and let's make the most out of this group together!"
+
+
+[Welcome script for welcome group](https://blog.vantagecircle.com/awesome-welcome-messages-for-new-employees/)
